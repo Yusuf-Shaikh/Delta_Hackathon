@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="110dp"
+    android:layout_height="110dp"
+    android:src="@drawable/ic_baseline_image_24"
+    android:gravity="center">
+
+
+
+</ImageView>
